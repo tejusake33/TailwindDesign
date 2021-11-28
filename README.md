@@ -1,2 +1,0 @@
-# TailwindDesign
-public: /index.html
